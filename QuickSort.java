@@ -114,7 +114,6 @@ public class QuickSort
 	printArr(arr1);
 
 	qsort( arr1 );
-	System.out.println( System.currentTimeMillis());	
        	System.out.println("arr1 after qsort: " );
 	printArr(arr1);
 
