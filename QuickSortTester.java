@@ -4,6 +4,15 @@
 //Lab01 -- What Does the Data Say?
 //2017-03-09
 
+/**
+   Mean execution data set of size
+   n = 1: 2537 ns
+   n = 10: 37404 ns
+   n = 100: 84928 ns
+   n = 1000: 271662 ns
+   n = 2500: 480776 ns
+ */
+
 
 import java.util.ArrayList;
 
